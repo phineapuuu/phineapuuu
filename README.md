@@ -4,7 +4,7 @@ I am Ricky a Node.js Developer from Philippines, mostly i create alot of Discord
 
 # Find me around the web :earth_asia:: 
 
-- My Official <a href="https://discord.gg/YqwtJkPa4y">  Discord </a> Server!
-- My <a href="https://www.facebook.com/phine.apuu"> Facebook </a> Profile!
-- You can invite my main <a href= "https://top.gg/bot/773860431978168320"> Discord Bot! </a>
+- My Official <a href="https://discord.gg/YqwtJkPa4y">  Discord </a> Server! :desktop:
+- My <a href="https://www.facebook.com/phine.apuu"> Facebook </a> Profile! :mobile_phone: 
+- You can invite my main <a href= "https://top.gg/bot/773860431978168320"> Discord Bot! </a> :robot
 
