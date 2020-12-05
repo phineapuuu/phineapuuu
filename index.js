@@ -1,6 +1,7 @@
 const Discord = require('discord.js')
 const bot = new Discord.Client();
 
+// When you first open VSC, make sure to type FIRST "npm init" in your terminal;
 // These are the list of packages you are going to use (Discord.js)
 // npm i discord.js
 
