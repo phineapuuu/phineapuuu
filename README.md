@@ -26,3 +26,4 @@ I am Ricky a Node.js Developer from Philippines, mostly i create alot of Discord
 <div align ="center">
 <img src="https://metrics.lecoq.io/Riiickyy?base.repositories=0&languages=1&isocalendar=1&followup=1">
   </div>
+
