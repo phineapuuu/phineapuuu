@@ -17,6 +17,6 @@ I am Ricky a Node.js Developer from Philippines, mostly i create alot of Discord
 - My <a href="https://www.facebook.com/phine.apuu"> Facebook </a> Profile! 📱
 - You can invite my main <a href= "https://top.gg/bot/773860431978168320"> Discord Bot! </a> 🤖
 - You can also subscribe to my <a href="https://www.youtube.com/channel/UC-2tphMZu134lJIXgx1DETg"> Youtube Channel </a> here! 📸
-<div align="center"?
+<div align="center">
 <img src="https://thumbs.gfycat.com/DiligentHarmoniousAfricanhornbill-size_restricted.gif">
 </div>
