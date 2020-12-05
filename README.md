@@ -21,6 +21,3 @@ I am Ricky a Node.js Developer from Philippines, mostly i create alot of Discord
   <a href="https://github.com/Riiickyy/Riiickyy/blob/main/index.js">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riiickyy&repo=Riiickyy&theme=dracula" width="400"/>
   </div>
-<div align="center">
-<img src="https://thumbs.gfycat.com/DiligentHarmoniousAfricanhornbill-size_restricted.gif" height="200" width="500"/>
-</div>
