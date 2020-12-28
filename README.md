@@ -13,7 +13,7 @@ I am a Node.js Developer from Philippines, mostly i create alot of Discord Bots!
 
 <div align ="center">
   <a href="https://github.com/Riiickyy/Riiickyy/blob/main/index.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riiickyy&repo=Riiickyy&theme=dracula" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phineapuu&repo=Riiickyy&theme=dracula" width="400"/>
   </div>
   
 # Find me around the web :earth_asia:: 
@@ -24,7 +24,7 @@ I am a Node.js Developer from Philippines, mostly i create alot of Discord Bots!
 - You can also subscribe to my <a href="https://www.youtube.com/channel/UC-2tphMZu134lJIXgx1DETg"> Youtube Channel </a> here! 📸
 
 <div align ="center">
-<img src="https://metrics.lecoq.io/phine-apuu?base.repositories=0&languages=1&isocalendar=1&followup=1">
+<img src="https://metrics.lecoq.io/phineapuu?base.repositories=0&languages=1&isocalendar=1&followup=1">
   </div>
 
 
