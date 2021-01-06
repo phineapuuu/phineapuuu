@@ -5,10 +5,10 @@ I'm Ricky, a self taught dev and a Full-Stack Javascript Developer!
 </p>
 
 <h4 align="center">
-💻 Open-Source Code <a href="https://github.com/phineapuu">@phineapuu</a> | 🌱 building <a href="https://discord.gg/MEvXFCRC9V">Discord Bot</a> | 💬 connect <a href="https://twitter.com/PhineApuu">@Phineapuu</a>
+💻 Free Open-Source Code <a href="https://github.com/phineapuu">@phineapuu</a> | 🌱 Building <a href="https://discord.gg/MEvXFCRC9V">Discord Bot</a> | 💬 Connect <a href="https://twitter.com/PhineApuu">@Phineapuu</a>
 </h4>
 <p  align="center">
-<a href="https://riiickyy.js.org">My Website!</a>
+<a href="https://riiickyy.js.org">My Website! :smiley: </a>
 </p>
 
 <br/>
