@@ -1,30 +1,24 @@
-# Hey There! :wave: :smiley: 
+<h2> Hi, I'm Ricky! <img src="https://cdn.discordapp.com/emojis/785766410541465642.gif?v=1" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Bot Developer at <a href="http://discord.com">Discord</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
-<div align="center">
-  <a href="https://discord.gg/YqwtJkPa4y">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC-2tphMZu134lJIXgx1DETg">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
-</div>
+[![Twitter: Phineapuu](https://img.shields.io/twitter/follow/Phineapuu?style=social)](https://twitter.com/PhineApuu)
 
-I am a Node.js Developer from Philippines, mostly i create alot of Discord Bots! and this is an <a href="https://top.gg/bot/773860431978168320"> example </a> of one my creation as a Discord bot Developer. I started learning how to code because i find it interesting and fun and that was a year ago when i was still 12 Years old! I am also learning HTML & CSS so i can create a personal website, i enjoy creating chatbots because they can be useful sometimes and am still at 7th Grade so i'm looking forward to learn more languages in the future!  
-
-<div align ="center">
-  <a href="https://github.com/phineapuuu/phineaouuu/blob/main/index.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phineapuuu&repo=phineapuuu&theme=dracula" width="400"/>
-  </div>
-  
-# Find me around the web :earth_asia:: 
-
-- My Official <a href="https://discord.gg/YqwtJkPa4y">  Discord </a> Server! 🖥️
-- My <a href="https://www.facebook.com/phine.apuu"> Facebook </a> Profile! 📱
-- You can invite my main <a href= "https://top.gg/bot/773860431978168320"> Discord Bot! </a> 🤖
-- You can also subscribe to my <a href="https://www.youtube.com/channel/UC-2tphMZu134lJIXgx1DETg"> Youtube Channel </a> here! 📸
-
-<div align ="center">
-<img src="https://metrics.lecoq.io/phineapuuu?base.repositories=0&languages=1&isocalendar=1&followup=1">
-  </div>
+[![GitHub phineapuu](https://img.shields.io/github/followers/phineapuu?label=follow&style=social)](https://github.com/phineapuu)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const phineapuu = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Ruby, Rust, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+ challenge: "None for the moment"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to help other people and help them with their projects! I also like to make friends online so feel free to add me on Discord (Egg#9963) </b> :)</em>
+
+---
