@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Ricky, a self taught dev and a Full-Stack Javascript Developer!
+I'm Ricky, a self taught dev , a Javascript Developer, a Web Developer, and a Game Developer!
 </p>
 
 <h4 align="center">
