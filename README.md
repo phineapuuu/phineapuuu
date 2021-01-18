@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I'm Ricky, a self taught dev , a Javascript Developer, a Web Developer, and a Game Developer!
+I'm Ricky, a JS Developer, a Game Developer, and a Web Developer!
 </p>
 
 <h4 align="center">
