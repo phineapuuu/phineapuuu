@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I'm Ricky, a JS Developer, a Game Developer, and a Web Developer!
+I'm Egg, a JS Developer, a Game Developer, and a Web Developer!
 </p>
 
 <h4 align="center">
