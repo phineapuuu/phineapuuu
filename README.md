@@ -87,12 +87,12 @@ I'm a 13 years old develeloper from Philippines, i have experience on different 
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/SnowflakesCentral/Discord.js-Tutorial-Bot"><b>💸 Discord.js Tutorial</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/SnowflakesCentral/Discord.js-Tutorial-Bot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SnowflakesCentral/Discord.js-Tutorial-Bot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/SnowflakesCentral/Discord.js-Tutorial-Bot?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SnowflakesCentral/Discord.js-Tutorial-Bot?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/SnowflakesCentral/Discord.js-Tutorial-Bot?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
