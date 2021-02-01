@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=phineapuuu.phineapuuu&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a 13 years old develeloper from Philippines, i have experience on different types of Computer Languages such as Javascript, Python, C++, C#, Java, and more!. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to create different types of Application so that i can learn more things! ✨. Apart from that I also love to guide and mentor newbies 🤝. I'm currently into Web Development 🕸️ and working on my Social Media Application 🖥️.
 
 [![](https://gitwar.herokuapp.com/badge?username=phineapuuu&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
