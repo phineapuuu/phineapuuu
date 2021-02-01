@@ -27,8 +27,8 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 ### My Absolute Favorites:
 
 - 🎮 &nbsp; I love playing Roblox games like Phantom Forces!
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 📰 &nbsp; Watching Movies!
+- 🍕 &nbsp; Of course, i love eating foods!
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp"></code>
