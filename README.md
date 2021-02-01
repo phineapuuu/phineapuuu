@@ -18,7 +18,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 - 🎉  &nbsp; I’m currently working on a Social Media Application using MERN.
 - 🚀 &nbsp; I’m currently learning Full Stack Web Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/phineapuuu).
+- 📜 &nbsp; Most of my projects are available on [Github](https://github.com/phineapuuu).
 - 💬 &nbsp; Ask me about anything [here](https://discord.gg/zHugPYagze)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: riiickyy.github@gmail.com.
