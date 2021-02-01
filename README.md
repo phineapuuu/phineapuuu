@@ -26,7 +26,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🎮 &nbsp; I love playing Roblox games like Phantom Forces!
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
