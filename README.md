@@ -79,12 +79,12 @@ I'm a 13 years old develeloper from Philippines, i have experience on different 
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/phineapuuu/DiscordBot.py"><b>🚀 Discord.py Tutorial</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/phineapuuu/DiscordBot.py?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/phineapuuu/DiscordBot.py?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/phineapuuu/DiscordBot.py?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phineapuuu/DiscordBot.py?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/phineapuuu/DiscordBot.py?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/SnowflakesCentral/Discord.js-Tutorial-Bot"><b>💸 Discord.js Tutorial</b></a></td>
