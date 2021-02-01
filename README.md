@@ -95,12 +95,12 @@ I'm a 13 years old develeloper from Philippines, i have experience on different 
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/SnowflakesCentral/Discord.js-Tutorial-Bot?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/phineapuuu/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/phineapuuu/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/phineapuuu/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phineapuuu/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/phineapuuu/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/phineapuuu/Eggies"><b>🥚 Eggies</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/phineapuuu/Eggies?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/phineapuuu/Eggies?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/phineapuuu/Eggies?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phineapuuu/Eggies?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/phineapuuu/Eggies?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/phineapuuu/phineapuuu"><b>🤓 phineapuuu</b></a></td>
