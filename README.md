@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Snowflakes!](https://github.com/phineapuuu/)
+## Hey 👋, I'm [Snowflakes!](https://github.com/phineapuuu/) ❄️
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/zHugPYagze)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://phineapuuu.github.io/)
