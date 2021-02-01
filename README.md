@@ -64,7 +64,6 @@ I'm a 13 years old develeloper from Philippines, i have experience on different 
 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
   <br />
   <table>
     <thead align="center">
