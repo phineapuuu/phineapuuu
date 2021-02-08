@@ -7,7 +7,6 @@
 [![Fiverr Badge](https://img.shields.io/badge/-Fiverr-0088cc?style=flat-square&logo=Fiverr&logoColor=green)](https://www.fiverr.com/ins3ct1ion?up_rollout=true)
 
 
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=phineapuuu.phineapuuu&style=flat-square&color=0088cc)
 
 I'm a 13 years old develeloper from Philippines, i have experience on different types of Computer Languages such as Javascript, Python, C++, C#, Java, and more!. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to create different types of Application so that i can learn more things! ✨. Apart from that I also love to guide and mentor newbies 🤝. I'm currently into Web Development 🕸️ and working on my Social Media Application 🖥️.
@@ -41,6 +40,7 @@ I'm a 13 years old develeloper from Philippines, i have experience on different 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
