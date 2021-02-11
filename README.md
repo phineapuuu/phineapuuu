@@ -20,8 +20,8 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
+   <a href="https://twitter.com/phineapuuu"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/phineapuuu?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=phineapuuu"></a>
+   <a href="https://badges.pufler.dev/visits/phineapuuu/phineapuuu"> <img alt="Phineapuu" src="https://badges.pufler.dev/visits/phineapuuu/phineapuuu"> </a>
  </p>
  
  <h5 align="center">
