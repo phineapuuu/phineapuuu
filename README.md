@@ -20,7 +20,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/phineapuuu"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/phineapuuu?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=phineapuuu"></a>
+   <a href="https://twitter.com/phineapuu"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/phineapuu?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=phinapuuu"></a>
    <a href="https://badges.pufler.dev/visits/phineapuuu/phineapuuu"> <img alt="Phineapuu" src="https://badges.pufler.dev/visits/phineapuuu/phineapuuu"> </a>
  </p>
  
